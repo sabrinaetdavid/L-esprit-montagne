@@ -46,3 +46,6 @@ footer {
   background-color: #eee;
   font-size: 0.9em;
 }
+[index.html](https://github.com/user-attachments/files/21968900/index.html)
+[style.css](https://github.com/user-attachments/files/21968902/style.css)
+<img width="1" height="1" alt="rando" src="https://github.com/user-attachments/assets/cf01a796-02c2-4d09-b839-e3cf3f2e0656" />
